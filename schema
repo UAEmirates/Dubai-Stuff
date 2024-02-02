@@ -1,3 +1,5 @@
+<html>
+<head>
 <script type="application/ld+json" class="schemantra.com">{
   "@context": "https://schema.org",
   "@type": "WebSite",
@@ -17,7 +19,11 @@
   "alternateName": "TINAS",
   "significantLink": "https://nbh.ae"
 }</script>
-
+</head>
+<body>
 
 <h1>hello</h1>
 <a href="/">wffv<a/>
+</body>
+</html>
+
